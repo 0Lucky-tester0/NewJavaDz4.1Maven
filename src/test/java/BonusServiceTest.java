@@ -56,7 +56,7 @@ public class BonusServiceTest {
         BonusService service = new BonusService();
 
         // подготавливаем данные:
-        long amount = 300000;
+        long amount = 400000;
         boolean registered = false;
         long expected = 500;
 
